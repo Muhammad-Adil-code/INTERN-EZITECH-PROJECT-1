@@ -1,6 +1,7 @@
-#ezitech intern priject1
+#Ezitech intern priject1
 
 #ONLY HTML AND CSS
+
 
 - 👋 Hi, I’m @Muhammad-Adil-code
 <!---
